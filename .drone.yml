@@ -1,7 +1,7 @@
 ---
 pipeline:
   test:
-    image: python:8-alpine
+    image: node:8-alpine
     commands:
       - npm install
     when:
