@@ -1,5 +1,8 @@
 # [Docusaurus](https://docusaurus.io) &middot;  [![CircleCI](https://circleci.com/gh/facebook/Docusaurus.svg?style=svg)](https://circleci.com/gh/facebook/Docusaurus) [![npm version](https://badge.fury.io/js/docusaurus.svg)](https://badge.fury.io/js/docusaurus) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md#pull-requests)
 
+[![Build Status](https://cloud.drone.io/api/badges/geraldoandradee/Docusaurus/status.svg)](https://cloud.drone.io/geraldoandradee/Docusaurus)
+
+
 Docusaurus is a project for easily building, deploying, and maintaining open source project websites.
 
 * **Simple to Start** Docusaurus is built to be easy to [get up and running](https://docusaurus.io/docs/en/installation.html) in as little time possible. We've built Docusaurus to handle the website build process so you can focus on your project.

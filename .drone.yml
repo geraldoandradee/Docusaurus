@@ -1,0 +1,8 @@
+---
+pipeline:
+  test:
+    image: python:8-alpine
+    commands:
+      - npm install
+    when:
+      event: [push, tag]
